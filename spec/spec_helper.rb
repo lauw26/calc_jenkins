@@ -1,4 +1,4 @@
-require_relative '../calc'
+require_relative '../calc.rb'
 
 RSpec.configure do |config|
   config.formatter = :documentation
