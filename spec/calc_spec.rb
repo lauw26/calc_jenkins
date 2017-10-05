@@ -26,7 +26,7 @@ describe Calculator do
 	end
 
 	it "should subtract two numbers" do
-		expect(@calc.minus(2,2)).to eq 0
+		expect(@calc.minus(2,2)).to eq 1
 	end
 
 	it "should divde two numbers" do
